@@ -125,6 +125,7 @@ hr {
 
 /* Portfolio Section */
 .profile-img {
+  margin-top: 30px !important;
   width: 80%;
   margin: 5rem 0 0;
   text-align: center;
